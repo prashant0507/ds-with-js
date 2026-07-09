@@ -23,6 +23,8 @@ Fibonacci
 /*******************************/
 * It always start with 0 and 1
 * other element is sum of previous two element
+* fab(0) = Always 0
+* fab(1) = Always 1
 
 0,1,1,2,3,5,8,13,21......
 
