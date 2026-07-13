@@ -28,3 +28,11 @@ Fibonacci
 
 0,1,1,2,3,5,8,13,21......
 
+/*******************************/
+Search and Sorting
+/*******************************/
+* Binary search can apply only on sorted array
+* round value using Math.floor to ignore decimal number
+* When we travesre in array in sequence use - for loop
+* when we move left, right, middle or random position use - while loop
+
